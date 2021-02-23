@@ -1,0 +1,32 @@
+.main .member_list {
+  margin-right: 50px;
+}
+
+.main .member_list h2 {
+  font-size: 3.2rem;
+  color: #0D0D0E;
+  margin-bottom: 10px;
+}
+
+.main .member_list .line {
+  width: 128px;
+  height: 2px;
+  background-color: #707070;
+  margin-bottom: 30px;
+}
+
+.main .member_list .search_text {
+  margin-bottom: 1vw;
+  margin-right: 0.5vw;
+}
+
+.main .member_list .member_content table tr th {
+  font-size: 2rem;
+  width: 5vw;
+}
+
+.main .member_list .member_content table tr td {
+  font-size: 2rem;
+  vertical-align: middle;
+}
+/*# sourceMappingURL=back_memberlist.css.map */

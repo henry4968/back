@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../sass/back_mixin.scss"
+    ],
+    "names": [],
+    "file": "back_mixin.css"
+}
